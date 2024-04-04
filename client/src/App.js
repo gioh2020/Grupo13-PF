@@ -13,8 +13,7 @@ import BarOwnerPanel from './components/BarOwnerPanel/BarOwnerPanel.jsx';
 import Password from './components/Password/Password';
 import AboutUs from './components/About Us/AboutUs';
 
-// axios.defaults.baseURL = "https://grupo13-pf-production.up.railway.app/";
-axios.defaults.baseURL = "http://localhost:3001/"
+axios.defaults.baseURL = "https://grupo13-pf-production.up.railway.app/";
 
 
 function App() {
